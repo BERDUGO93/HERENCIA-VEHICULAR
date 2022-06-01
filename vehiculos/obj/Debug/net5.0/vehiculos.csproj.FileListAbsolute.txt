@@ -1,0 +1,5 @@
+G:\vehiculos\obj\Debug\net5.0\vehiculos.csproj.AssemblyReference.cache
+G:\vehiculos\obj\Debug\net5.0\vehiculos.GeneratedMSBuildEditorConfig.editorconfig
+G:\vehiculos\obj\Debug\net5.0\vehiculos.AssemblyInfoInputs.cache
+G:\vehiculos\obj\Debug\net5.0\vehiculos.AssemblyInfo.cs
+G:\vehiculos\obj\Debug\net5.0\vehiculos.csproj.CoreCompileInputs.cache
